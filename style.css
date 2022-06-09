@@ -1,0 +1,48 @@
+html {
+    font-size: 62.5%;
+}
+
+/* Calculator layout properties. */
+.formstyle
+{
+width: 300px;
+height: 330px;
+margin: 20px auto;
+border: 3px solid skyblue;
+border-radius: 5px;
+padding: 20px;
+text-align: center;
+background-color: grey;
+}
+
+/* input box properties */
+input:hover
+{
+background-color: green;
+}
+
+.textview{
+    width: 223px;
+    margin: 5px;
+    font-size: 25px;
+    padding: 5px;
+    background-color: lightgreen;
+    }	
+
+*{
+margin: 0;
+padding: 0;
+}
+
+/* Calculator button properties */
+.btn{
+width: 50px;
+height: 50px;
+font-size: 25px;
+margin: 2px;
+cursor: pointer;
+background-color: red;
+color: white;
+}
+
+
